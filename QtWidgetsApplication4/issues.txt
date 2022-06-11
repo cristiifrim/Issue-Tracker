@@ -1,0 +1,5 @@
+bug in reading a users name,open,cristi,None
+broken button,closed,cristi,marian
+search function doesnt work,closed,cristi,aurel
+light theme should be deleted,closed,cristi,marian
+please stop working in master brach,closed,cristi,marian

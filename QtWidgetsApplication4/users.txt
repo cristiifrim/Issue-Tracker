@@ -1,0 +1,3 @@
+cristi,tester
+marian,programmer
+aurel,programmer
